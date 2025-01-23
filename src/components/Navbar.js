@@ -213,7 +213,6 @@ The system's modular design allows for scalability and future enhancements, maki
               ></button>
             </div>
             <div className="modal-body">
-                <h5>About Us</h5>
                 <p>We are <strong>Nağme Uğurtan</strong>, <strong>Ezgi Atatanır</strong>, and <strong>Bahadır Erdem</strong>, 4th-year students at <strong>Yaşar University</strong>, studying <strong>Computer Engineering</strong>.</p>
                 <p><strong>Nağme Uğurtan</strong> (20070001080)</p>
                 <p><strong>Ezgi Atatanır</strong> (21070001053)</p>
