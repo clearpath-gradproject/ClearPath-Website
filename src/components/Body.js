@@ -21,20 +21,21 @@ const Body = () => {
   // Array to simulate the images
   const images = [
     "https://i.hizliresim.com/h7w656d.png",
-    "https://i.hizliresim.com/7yo5r9h.png",
+    "https://i.hizliresim.com/qqd8ty9.png",
     "https://i.hizliresim.com/6q1n1jh.png",
     "https://i.hizliresim.com/rwc9qgr.png",
     "https://i.hizliresim.com/8107a30.png",
     "https://i.hizliresim.com/lwby1uh.png",
     "https://i.hizliresim.com/4fgipup.png",
-    "https://i.hizliresim.com/q5kbooj.png",
+    "https://i.hizliresim.com/mrgko1i.png",
     "https://i.hizliresim.com/223pz0r.png",
-    "https://i.hizliresim.com/hcmc7u0.png",
+    "https://i.hizliresim.com/of4e9dg.png",
     "https://i.hizliresim.com/c41bqfj.png",
-    "https://i.hizliresim.com/g7q40wq.png",
-    "https://i.hizliresim.com/qu4b8ws.png",
+    "https://i.hizliresim.com/30heafq.png", //conclusion 1
+    "https://i.hizliresim.com/15oyj21.png",
+    "https://i.hizliresim.com/qrdtvp2.png",
     "https://i.hizliresim.com/i037k3v.png",
-    "https://i.hizliresim.com/mbih4ea.png",
+    "https://i.hizliresim.com/gtgfiaf.png",
     "https://i.hizliresim.com/5mxkant.png"
   ];
 
