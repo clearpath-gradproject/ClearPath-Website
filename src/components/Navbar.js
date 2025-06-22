@@ -145,7 +145,11 @@ const Navbar = () => {
                     Project Poster
                   </a>
                 </li>
-
+                <li>
+                  <a className="dropdown-item" href="https://drive.google.com/uc?export=download&id=1m2gMGfqBhzO0hEFkes0rcqew0DIPSXjn" download>
+                    Project Manual
+                  </a>
+                </li>
               </ul>
             </div>
           </div>

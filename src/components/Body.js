@@ -20,23 +20,37 @@ const Body = () => {
 
   // Array to simulate the images
   const images = [
-    "https://i.hizliresim.com/h7w656d.png",
-    "https://i.hizliresim.com/qqd8ty9.png",
-    "https://i.hizliresim.com/6q1n1jh.png",
-    "https://i.hizliresim.com/rwc9qgr.png",
-    "https://i.hizliresim.com/8107a30.png",
-    "https://i.hizliresim.com/lwby1uh.png",
-    "https://i.hizliresim.com/4fgipup.png",
-    "https://i.hizliresim.com/mrgko1i.png",
-    "https://i.hizliresim.com/223pz0r.png",
-    "https://i.hizliresim.com/of4e9dg.png",
-    "https://i.hizliresim.com/c41bqfj.png",
-    "https://i.hizliresim.com/30heafq.png", //conclusion 1
-    "https://i.hizliresim.com/15oyj21.png",
-    "https://i.hizliresim.com/qrdtvp2.png",
-    "https://i.hizliresim.com/i037k3v.png",
-    "https://i.hizliresim.com/gtgfiaf.png",
-    "https://i.hizliresim.com/5mxkant.png"
+    "https://i.hizliresim.com/3x3vy1m.png", //1
+    "https://i.hizliresim.com/846wh6d.png", //2
+    "https://i.hizliresim.com/2wdow3w.png", //3
+    "https://i.hizliresim.com/1ndtxsa.png", //4
+    "https://i.hizliresim.com/si3kve8.png", //5
+    "https://i.hizliresim.com/atrsuc4.png", //6
+    "https://i.hizliresim.com/8a34rjl.png", //7
+    "https://i.hizliresim.com/iao01jr.png", //8
+    "https://i.hizliresim.com/asu87vu.png", //9
+    "https://i.hizliresim.com/3tv942f.png", //10
+    "https://i.hizliresim.com/dc8ezrv.png", //11,
+    "https://i.hizliresim.com/tt1nxww.png", //class diagram
+    "https://i.hizliresim.com/eaoionm.png", //activity diagram giriş
+    "https://i.hizliresim.com/iq6x8ys.png", //algorithm structure 
+    "https://i.hizliresim.com/gm6wbmk.png", //activity diagram çıkış
+    "https://i.hizliresim.com/i2ij9xp.png", //vehicle structure
+    "https://i.hizliresim.com/gm6wbmk.png", //activity diagram çıkış 2
+    "https://i.hizliresim.com/ixzrwf8.png", //vehicle display
+    "https://i.hizliresim.com/du0pdjs.png", //use case 1 
+    "https://i.hizliresim.com/nlv2knp.png", //1
+    "https://i.hizliresim.com/du0pdjs.png", //use case 1 
+    "https://i.hizliresim.com/pnxpvee.png", //2
+    "https://i.hizliresim.com/btb97ro.png", //model development
+    "https://i.hizliresim.com/h1xvqd5.png", //lane
+    "https://i.hizliresim.com/3cx82rv.png",
+    "https://i.hizliresim.com/98259z5.png",
+    "https://i.hizliresim.com/nap9jey.png",
+    "https://i.hizliresim.com/m6iw6yo.png",
+    "https://i.hizliresim.com/ed4nfde.png", //how it works
+    "https://i.hizliresim.com/tkoqpjt.png",
+    "https://i.hizliresim.com/bnmqfxw.png", //thanks
   ];
 
   return (
@@ -74,7 +88,7 @@ const Body = () => {
           <div className="mt-4">
             <h3 className="text-center">Poster</h3>
             <img
-              src="https://i.hizliresim.com/jy25569.jpg"
+              src="https://i.hizliresim.com/dxkyvyx.png"
               alt="Poster"
               className="img-fluid rounded shadow"
               style={{
@@ -88,7 +102,7 @@ const Body = () => {
                 cursor: "pointer",
               }}
               onClick={() =>
-                openModal("https://i.hizliresim.com/jy25569.jpg")
+                openModal("https://i.hizliresim.com/dxkyvyx.png")
               }
             />
           </div>
